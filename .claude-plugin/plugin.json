@@ -1,0 +1,8 @@
+{
+  "name": "workflow-skills",
+  "version": "1.0.0",
+  "description": "Ticket, grill, drive, review+merge, draft reply, evidence slides, close: a full task loop for Claude Code.",
+  "author": { "name": "stackoverprof" },
+  "repository": "https://github.com/stackoverprof/skills",
+  "license": "MIT"
+}

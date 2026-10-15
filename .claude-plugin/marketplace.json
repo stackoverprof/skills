@@ -1,0 +1,11 @@
+{
+  "name": "stackoverprof",
+  "owner": { "name": "stackoverprof" },
+  "plugins": [
+    {
+      "name": "workflow-skills",
+      "source": "./",
+      "description": "Ticket, grill, drive, review+merge, draft reply, evidence slides, close: a full task loop for Claude Code."
+    }
+  ]
+}
